@@ -1,14 +1,14 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Author: Ivan Braz Scarpa Pereira                                    %%%
-%%% Responsible professor: Antonelli Monti, Dr.                         %%%
+%%% Responsible professor: Antonello Monti,, Dr.                        %%%
 %%% Supervisors: Rodrigo Teixeira Pinto, Dr.                            %%%
 %%%              Epameinondas Kontos, Dr.                               %%%
 %%%              Asimenia Korompili, Msc.                               %%%
-%%% This is an algorithm designed based on the code used at the Master  %%%
+%%% This is an algorithm developed based on the code used in the Master %%%
 %%% Thesis "Optimization of Control Parameters of MMC converters in HVDC%%% 
-%%% transmission applications" done in a collaboration work between RWTH%%%
-%%% Aachen University and HVDC Control and Protection 1 from Siemens    %%%
-%%% Energy, Erlangen, Germany                                           %%%
+%%% transmission applications", carried out in collaboration between    %%%
+%%% RWTH Aachen University and HVDC Control and Protection 1 from       %%%
+%%% Siemens Energy, Erlangen, Germany                                   %%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% Initialization
